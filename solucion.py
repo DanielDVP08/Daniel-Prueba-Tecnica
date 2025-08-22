@@ -59,7 +59,7 @@ def planificarProduccion(ordenes):
         raise ValueError("Dependencia circular detectada. No se puede generar un plan de producción válido.")
 
 
-if __name__ == "__main__":
+
     print("--- Probando Solución del Planificador de Producción ---")
 
     # # Caso 1: Simple
