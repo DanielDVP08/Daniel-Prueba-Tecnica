@@ -81,3 +81,5 @@ function planificarProduccion(ordenes) {
     );
   }
 }
+
+module.exports = { planificarProduccion };
